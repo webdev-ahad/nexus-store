@@ -13,7 +13,7 @@ import TestimonialsSection from '../components/sections/TestimonialsSection'
 import FAQSection from '../components/sections/FAQSection'
 import SectionShell from '../components/ui/SectionShell'
 import SectionHeader from '../components/ui/SectionHeader'
-import { cardBase, cardHover, countBadge } from '../components/ui/styles'
+import { cardBase, countBadge } from '../components/ui/styles'
 
 type HomeProps = {
   search: string
